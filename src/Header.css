@@ -1,0 +1,42 @@
+.header {
+  width: 100%;
+  background-color: #2a9d8f;
+  height: 60px;
+  margin-bottom: 1px;
+  display: flex;
+}
+.hospital__name {
+  display: flex;
+  color: white;
+  width: 20px;
+  flex: 1;
+  align-items: center;
+}
+.hospital__icon {
+  padding: 10px;
+  margin-top: 6px;
+}
+.hospital__name > h1 {
+  font-size: 23px;
+  font-weight: 400;
+}
+.hospital__icons {
+  display: flex;
+  color: white;
+  align-items: center;
+}
+.Hospital__icon1 {
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.Hospital__icon1 > h3 {
+  font-weight: 400;
+  font-size: 15px;
+}
+.hospital__icon2 {
+  padding: 0 25px 0 25px;
+}
+.hospital__icon3 {
+  padding: 0 30px 0 30px;
+}
